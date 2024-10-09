@@ -10,4 +10,4 @@
 | LightOj | [nazmul_hossin](https://lightoj.com/user/nazmul_hossin) | 12 | N/A | N/A |
 | CSES | [nazmul_hossin](https://cses.fi/problemset/user/153677/) | 11 | N/A | N/A |
 | Spoj | [nazmul_hossin](https://www.spoj.com/users/nazmul_hossin/) | 11 | N/A | N/A |
-| Total | | 1676 | 131 | |
+| **Total** | | **1676** | **131** | |
