@@ -1,4 +1,4 @@
-# My-Problem-Solving-Statistics
+# My Problem Solving Statistics
 | Online Judge | Username | No. of Solved Problems | Contests Participated | Highest Rating |
 | ------------ | :--------: | :----------------------: | :---------------------: | :--------------: |   
 | Codeforces | [nazmul_hossin](https://codeforces.com/profile/nazmul_hossin) | 963 | 79 | 1441 |
